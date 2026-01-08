@@ -108,11 +108,13 @@ The results confirm that classical NLP approaches remain highly competitive for 
 ---
 
 ## Repository Structure
+```
 SMS_SpamDetection/
 │
-├── SMS_Spam_Detection_Project_Final_Baseline.ipynb   # Main notebook (implementation + experiments)
+├── SMS_Spam_Detection_Project_Daniela_Anamaria.ipynb   # Main notebook
 ├── README.md                                         # Project description
----
+```
+
 
 ## How to Run
 
